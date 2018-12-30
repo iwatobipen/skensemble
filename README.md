@@ -7,6 +7,16 @@ Ensemble learning / Blending
 - Date: 20181229
 
 
+## Installlation
+
+
+```
+git clone https://github.com/iwatobipen/skensemble
+cd skensemble
+python setup.py install
+```
+
+
 ## Requirements
 
 - python3.x
